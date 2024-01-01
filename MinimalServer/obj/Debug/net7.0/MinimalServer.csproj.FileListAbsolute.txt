@@ -1,0 +1,15 @@
+C:\Users\FanavaryMoallem\RiderProjects\MinimalServer\MinimalServer\bin\Debug\net7.0\MinimalServer.exe
+C:\Users\FanavaryMoallem\RiderProjects\MinimalServer\MinimalServer\bin\Debug\net7.0\MinimalServer.deps.json
+C:\Users\FanavaryMoallem\RiderProjects\MinimalServer\MinimalServer\bin\Debug\net7.0\MinimalServer.runtimeconfig.json
+C:\Users\FanavaryMoallem\RiderProjects\MinimalServer\MinimalServer\bin\Debug\net7.0\MinimalServer.dll
+C:\Users\FanavaryMoallem\RiderProjects\MinimalServer\MinimalServer\bin\Debug\net7.0\MinimalServer.pdb
+C:\Users\FanavaryMoallem\RiderProjects\MinimalServer\MinimalServer\obj\Debug\net7.0\MinimalServer.csproj.AssemblyReference.cache
+C:\Users\FanavaryMoallem\RiderProjects\MinimalServer\MinimalServer\obj\Debug\net7.0\MinimalServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FanavaryMoallem\RiderProjects\MinimalServer\MinimalServer\obj\Debug\net7.0\MinimalServer.AssemblyInfoInputs.cache
+C:\Users\FanavaryMoallem\RiderProjects\MinimalServer\MinimalServer\obj\Debug\net7.0\MinimalServer.AssemblyInfo.cs
+C:\Users\FanavaryMoallem\RiderProjects\MinimalServer\MinimalServer\obj\Debug\net7.0\MinimalServer.csproj.CoreCompileInputs.cache
+C:\Users\FanavaryMoallem\RiderProjects\MinimalServer\MinimalServer\obj\Debug\net7.0\MinimalServer.dll
+C:\Users\FanavaryMoallem\RiderProjects\MinimalServer\MinimalServer\obj\Debug\net7.0\refint\MinimalServer.dll
+C:\Users\FanavaryMoallem\RiderProjects\MinimalServer\MinimalServer\obj\Debug\net7.0\MinimalServer.pdb
+C:\Users\FanavaryMoallem\RiderProjects\MinimalServer\MinimalServer\obj\Debug\net7.0\MinimalServer.genruntimeconfig.cache
+C:\Users\FanavaryMoallem\RiderProjects\MinimalServer\MinimalServer\obj\Debug\net7.0\ref\MinimalServer.dll
